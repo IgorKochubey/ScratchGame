@@ -1,0 +1,32 @@
+{
+  "columns": 3,
+  "rows": 3,
+  "symbols": {
+    "A": {
+      "rewardMultiplier": 5,
+      "type": "standard"
+    },
+    "B": {
+      "rewardMultiplier": 3,
+      "type": "standard"
+    }
+  },
+  "probabilities": {
+    "A": 0.5,
+    "B": 0.5
+  },
+  "winningCombinations": {
+    "A": [
+      "horizontal",
+      "vertical",
+      "diagonal",
+      "anti-diagonal"
+    ],
+    "B": [
+      "horizontal",
+      "vertical",
+      "diagonal",
+      "anti-diagonal"
+    ]
+  }
+}
